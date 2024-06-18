@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+div{
+    margin-top: 40px;
+}
+
+#a{
+ text-align: center;
+}
+
+#d{
+    border: 10px white solid;
+}
+
+#b{
+    color: white;
+    text-align: center;
+}
+
+#c{
+  text-align: center;
+  color: white;
+}

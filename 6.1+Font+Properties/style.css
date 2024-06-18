@@ -1,0 +1,24 @@
+html{
+    font-size: 30px;
+}
+
+#a{
+    color: coral;
+}
+
+#b{
+    font-size: 2rem;
+}
+
+#c{
+    font-weight: 900;
+}
+
+#d{
+    font-family: Caveat;
+    font-weight: 400;
+}
+
+#e{
+    text-align: right;
+}
